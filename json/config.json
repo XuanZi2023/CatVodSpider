@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "Douban",
-      "name": "公众号:TVBox",
+      "name": "公众号：TVBox",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
